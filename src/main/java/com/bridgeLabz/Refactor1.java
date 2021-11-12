@@ -1,6 +1,6 @@
 package com.bridgeLabz;
 
-public class Maximum {
+public class Refactor1 {
 
     public static<E extends Comparable>E findMaximum(E a, E b, E c) {
         E max = a;
